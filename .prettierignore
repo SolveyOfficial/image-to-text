@@ -1,0 +1,8 @@
+dist
+public/pdfjs
+public/tesseract
+licences
+tessdata
+node_modules
+package-lock.json
+THIRD_PARTY_NOTICES.md
